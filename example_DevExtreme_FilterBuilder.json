@@ -1,0 +1,11 @@
+[
+  ["Age", ">", 30],
+  "and",
+  ["Salary", ">", 5000],
+  "or",
+  [
+    ["Department", "=", "IT"],
+    "and",
+    ["Active", "=", true]
+  ]
+]
